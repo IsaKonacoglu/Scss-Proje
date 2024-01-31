@@ -4,5 +4,5 @@ Responsive tasarlamis oldugum bu projemde ornek bir banka sitesi örneği hazır
 # Kullanilan Teknolojiler
 HTML CSS VE SCSS ile kodlandi.
 
-#Ekran Goruntusu
+# Ekran Goruntusu
 ![](<video src="ekrankaydim-1.mp4" controls title="Title"></video>)
